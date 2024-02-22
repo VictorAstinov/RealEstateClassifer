@@ -319,8 +319,6 @@ def cross_validation(train_data : pd.DataFrame, test_data : pd.DataFrame, attrib
     return best_threshold, test_accuracy
 
 ############################ main
-# You should not need to change the code below
-#
 # This code performs the following operations:
 # 1) Load the data
 # 2) create a list of attributes
